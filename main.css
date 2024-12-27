@@ -1,0 +1,86 @@
+.hh1{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    width: 800px;
+}
+.hero{
+    width: 350px;
+    height: 150px;
+    color: white;
+    background-color: pink;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.sidebar{
+    width: 350px;
+    height: 220px;
+    color: white;
+    background-color: greenyellow;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.maincontent{
+    width: 435px;
+    height: 300px;
+    color: white;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.extracontent{
+    width: 435px;
+    height: 70px;
+    color: white;
+    background-color: darkgray;
+    margin-left: 360px;
+    margin-top: -60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.otajon{
+    display: flex;
+
+}
+.realed{
+    width: 470px;
+    height: 70px;
+    color: white;
+    background-color: green;
+    margin-top: 10px;   
+    display: flex;
+     align-items: center;
+    justify-content: center;
+}
+.posts{
+    width: 315px;
+    height: 70px;
+    color: white;
+    background-color: pink;
+    margin-left: 480px;
+    margin-top: -70px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+
+}
+.hh2{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    width: 800px;
+
+}
+.ota{
+    
+}
+.kattaota{
+    display: flex;
+    gap: 10px;
+}
